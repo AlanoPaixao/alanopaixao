@@ -1,6 +1,6 @@
 
-## Bem vindo ao meu GitHub 
-Aqui você encontrará meu progresso no mundo da programação 💻🚀
+## Welcome to my GitHub 
+Here you will find my progress in the programming world 💻🚀
 
 <div align="center">
   <a href="https://github.com/alanopaixao">
@@ -21,5 +21,5 @@ Aqui você encontrará meu progresso no mundo da programação 💻🚀
   
   <div> 
   <a href="https://instagram.com/alanpaixao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alanpaixao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
