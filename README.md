@@ -26,7 +26,7 @@ Here you will find my progress in the programming world 💻🚀
   
 <div> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total Profile Views :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/alanopaixao/count.svg" />
  </p>
