@@ -23,12 +23,3 @@ Here you will find my progress in the programming world 💻🚀
   <a href="https://instagram.com/alanpaixao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alanpaixao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-<div> 
-
- ## Total Profile Views :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/alanopaixao/count.svg" />
- </p>
-
-</div>
