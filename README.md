@@ -13,7 +13,7 @@ Here you will find my progress in the programming world 💻🚀
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn2.scratch.mit.edu/get_image/gallery/10294_170x100.png">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/AlanoPaixao/files/blob/main/gif/zelda.gif?raw=true">
   
 </div>
 
