@@ -8,12 +8,20 @@ Here you will find my progress in the programming world 💻🚀
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanopaixao&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://github.com/AlanoPaixao/files/blob/main/gif/zelda.gif?raw=true">
+  <!-- Icons Skill -->
+<div style="display: inline-block"><br>
+  <img align="center" alt="html" height="30" width="40" title="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="center" alt="css" height="30" width="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="js" height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="react.js" height="30" width="40" title="React.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="node" height="30" width="40" title="Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="mysql" height="30" width="40" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="mongo" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+  <img align="center" alt="git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+
+
+  <!-- GIF Zelda -->
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://github.com/AlanoPaixao/files/blob/main/gif/zelda.gif?raw=true">
   
 </div>
 
