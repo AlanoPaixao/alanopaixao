@@ -19,7 +19,7 @@ Here you will find my progress in the programming world 💻🚀
   <img align="center" alt="mongo" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 
   <!-- GIF Zelda -->
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://github.com/AlanoPaixao/files/blob/main/gif/zelda.gif?raw=true">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/AlanoPaixao/alanopaixao/main/zelda.gif">
   
 </div>
 
