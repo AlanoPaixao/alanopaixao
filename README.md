@@ -17,8 +17,6 @@ Here you will find my progress in the programming world 💻🚀
   <img align="center" alt="node" height="30" width="40" title="Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="mysql" height="30" width="40" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="mongo" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <img align="center" alt="git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-
 
   <!-- GIF Zelda -->
   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://github.com/AlanoPaixao/files/blob/main/gif/zelda.gif?raw=true">
