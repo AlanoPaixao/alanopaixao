@@ -3,9 +3,9 @@
 Here you will find my progress in the programming world 💻🚀
 
 <div align="center">
-  <a href="https://github.com/AlanoPaixao">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlanoPaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanoPaixao&layout=compact&langs_count=6&theme=dark"/>
+  <a href="https://github.com/alanopaixao">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanopaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanopaixao&layout=compact&langs_count=6&theme=dark"/>
 </div>
   
   <!-- Icons Skill -->
