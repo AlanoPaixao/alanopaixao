@@ -7,6 +7,7 @@ Here you will find my progress in the programming world 💻🚀
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanopaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanopaixao&layout=compact&langs_count=4&theme=dark"/>
 </div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alanopaixao&theme=vue&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=DDDDDD)](https://git.io/streak-stats)
   
   <!-- Icons Skill -->
 <div style="display: inline-block"><br>
