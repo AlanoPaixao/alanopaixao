@@ -12,7 +12,7 @@ Here you will find my progress in the programming world 💻🚀
   <!-- Icons Skill -->
 <div style="display: inline-block"><br>
   <img align="center" alt="mongo" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="express.js" height="30" width="40" title="Express.Js"src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="react.js" height="30" width="40" title="React.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="node" height="30" width="40" title="Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 
