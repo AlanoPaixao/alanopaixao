@@ -2,6 +2,7 @@
 ## Welcome to my GitHub 
 Here you will find my progress in the programming world 💻🚀
 
+
 <div align="center">
   <a href="https://github.com/alanopaixao">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanopaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,7 @@ Here you will find my progress in the programming world 💻🚀
   <!-- Icons Skill -->
 <div style="display: inline-block"><br>
   <img align="center" alt="mongo" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="react.js" height="30" width="40" title="React.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="node" height="30" width="40" title="Node.Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 
