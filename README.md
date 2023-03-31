@@ -8,14 +8,11 @@
 - 🚀 Front End - Origamid;
 - 🧠 Apenas a prática te leva a perfeição;
 
+
 ## 📫 Contato:
 
  <div> 
   <p align="left">
-<a href="mailto:email@provedor.com.br" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-" alt="Gmail"/>
-</a>
 <a href="https://twitter.com/alanopaixao" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
 </a>
@@ -25,9 +22,9 @@
 <a href="https://www.instagram.com/alanopaixao/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
-</p>
-  
+</p> 
  </div>
+ 
 
 ## 🛠 Tecnologia
 
@@ -39,7 +36,12 @@
   <img align="center" alt="Alan-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Alan-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alan-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+</div>
+<br/>
+<div>
 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanopaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanopaixao&layout=compact&langs_count=4&theme=dark"/>
 </div>
 
   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/AlanoPaixao/alanopaixao/main/zelda.gif">
@@ -47,3 +49,4 @@
 ## Localidade
 
 🏡 Maracanaú - Ceará;
+
