@@ -2,9 +2,9 @@
 
 - 💻 Desenvolvedor Web;
 - 🛠 HTML | CSS | JavaScript | TypeScript | React | Node | Sass
-- 🧑🏾‍💻 Full-stack Júnior;
+- 🧑🏾‍💻 Full-stack Developer;
 - 📝 Graduado em Sistemas de informação;
-- 🚀 FullStack - DIgital College;
+- 🚀 FullStack - Digital College;
 - 🚀 Front End - Origamid;
 - 🧠 Apenas a prática te leva a perfeição;
 
