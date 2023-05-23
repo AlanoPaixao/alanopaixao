@@ -1,10 +1,9 @@
   # Alan Paixão
 
-- 💻 Desenvolvedor Web;
-- 🛠 HTML | CSS | JavaScript | TypeScript | React | Node | Sass
-- 🧑🏾‍💻 Full-stack Developer;
+- 🧑🏾‍💻 Full Stack Developer;
+- 🛠 HTML | CSS | JavaScript | TypeScript | React | Node | Sass | Tailwind
 - 📝 Graduado em Sistemas de informação;
-- 🚀 FullStack - Digital College;
+- 🚀 Full Stack - Digital College;
 - 🚀 Front End - Origamid;
 - 🧠 Apenas a prática te leva a perfeição;
 
@@ -36,6 +35,7 @@
   <img align="center" alt="Alan-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Alan-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Alan-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Alan-TAILLWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <br/>
 <div>
@@ -48,5 +48,5 @@
 
 ## Localidade
 
-🏡 Maracanaú - Ceará;
+🏡 Maracanaú - CE;
 
