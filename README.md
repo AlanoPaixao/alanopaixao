@@ -1,53 +1,44 @@
-  # Alan Paixão
+# Alan Paixão
 
-- 🧑🏾‍💻 Full Stack Developer;
-- 🛠 HTML | CSS | JavaScript | TypeScript | React | Node | Sass | Tailwind
+- 🧑‍💻 Front End Developer;
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas;
 - 📝 Graduado em Sistemas de informação;
-- 🚀 Full Stack - Digital College;
-- 🚀 Front End - Origamid;
-- 🧠 Apenas a prática te leva a perfeição;
-
 
 ## 📫 Contato:
 
- <div> 
-  <p align="left">
-<a href="https://twitter.com/alanopaixao" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/alanpaixao/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/alanopaixao/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-</p> 
- </div>
- 
-
-## 🛠 Tecnologia
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Alan-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Alan-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Alan-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Alan-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Alan-TAILLWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-</div>
-<br/>
-<div>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanopaixao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanopaixao&layout=compact&langs_count=6&theme=dark"/>
+<div align="left">
+  <a href="https://twitter.com/alanopaixao" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/alanpaixao/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/alanopaixao/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
 </div>
 
+## 🛠 Skills
 
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/AlanoPaixao/alanopaixao/main/zelda.gif">
+<div style="display: flex; align-items: center; margin-bottom: 40px">
+  <img alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Alan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Alan-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="Alan-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Alan-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Alan-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="Alan-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img alt="Alan-TAILWIND" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 
-## Localidade
+  <img alt="Alan-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Alan-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="Alan-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 
-🏡 Maracanaú - CE;
+  <img alt="Alan-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+</div>
+</br>
 
+<div style="display: flex; justify-content: space-between;">
+  <img height="160em" style="align-self: flex-start;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanopaixao&layout=compact&langs_count=6&theme=dark"/>
+  <img alt="gif" height="150" style="border-radius: 50px;" src="https://raw.githubusercontent.com/AlanoPaixao/alanopaixao/main/zelda.gif">
+</div>
