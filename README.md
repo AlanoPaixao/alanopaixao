@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Front End Developer;
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas;
-- 📝 Graduado em Sistemas de informação;
+- 📝 Graduado em Sistemas de Informação;
 
 ## 📫 Contato:
 
